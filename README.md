@@ -26,4 +26,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil048&layout=compact)](https://github.com/harshil048/github-readme-stats)
 
-![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil048&theme=gotham_icons=true)
+![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil048&theme=react-dark_icons=true)
+[![Harshil's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshil048&theme=react-dark)](https://github.com/harshil048/github-readme-activity-graph)
