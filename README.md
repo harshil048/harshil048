@@ -1,64 +1,29 @@
-###  < Hi There, I'm Harshil Bambhroliya 👋 />
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align="left">Hi 🙋‍♂️ , I’m Harshil Bambhroliya..</h1>
+<h3 align="left">A passionate learner.</h3>
 
-<!--
-**harshil048/harshil048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in **DSA & Web Development.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **DSA & CP.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshil_048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshil_048" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshil-bambhroliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil-bambhroliya" height="30" width="40" /></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=harshil048.visitor-badge)
-
-
-📌 ***YOU CAN FIND ME HERE*** 😃👇
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/harshil_048
-[2]: http://www.facebook.com/harshil.bambhroliya.5
-[6]: http://www.github.com/harshil048
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<h3 align="left">Coading Profiles:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/harshil9054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshil9054" height="30" width="40" /></a>
+<a href="https://leetcode.com/harshil048/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshil048" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/harshil_bambhroliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshil048" height="30" width="40" /></a>
 
 
 
+</p>
+<p align="left"> <a href="https://twitter.com/harshil_048" target="blank"><img src="https://img.shields.io/twitter/follow/harshil_048?logo=twitter&style=for-the-badge" alt="imsohil4" /></a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
 
-[![Harshil's github stats](https://github-readme-stats.vercel.app/api/?username=harshil048&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil048&layout=compact)](https://github.com/harshil048/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil048&langs_count=5&theme=tokyonight)]()
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshil048&theme=react-dark)](https://github.com/harshil048/github-readme-activity-graph)
+![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil048&theme=gotham_icons=true)
