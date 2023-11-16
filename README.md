@@ -1,4 +1,7 @@
 <h1 align="left">Hi 🙋‍♂️ , I’m Harshil Bambhroliya..</h1>
+<div id = "counter">
+<img src="https://komarev.com/ghpvc/?username=harshil048&style=flat-square&color=blue" alt=""/>
+</div>
 <h3 align="left">A passionate learner.</h3>
 
 - 👀 I’m interested in **DSA & Web Development.**
@@ -19,7 +22,7 @@
 
 
 </p>
-<p align="left"> <a href="https://twitter.com/harshil_048" target="blank"><img src="https://img.shields.io/twitter/follow/harshil_048?logo=twitter&style=for-the-badge" alt="imsohil4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harshil0048" target="blank"><img src="https://img.shields.io/twitter/follow/harshil0048?logo=twitter&style=for-the-badge" alt="imsohil4" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
