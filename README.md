@@ -22,6 +22,11 @@
 
 
 </p>
+<p>
+  <a href="https://codeforces.com/profile/queue">
+  <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Harshil-Bambhroliya&theme=github_dark&force_username=true&border_color=404040" alt="Queue Codeforces Stats"/>
+  </a>
+</p>
 <p align="left"> <a href="https://twitter.com/harshil0048" target="blank"><img src="https://img.shields.io/twitter/follow/harshil0048?logo=twitter&style=for-the-badge" alt="imsohil4" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
